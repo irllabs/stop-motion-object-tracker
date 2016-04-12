@@ -1,0 +1,52 @@
+<frame>
+    <time>0.000000000</time>
+    <drone>
+        <id>14</id>
+        <position>
+            <x>885.892395020</x>
+            <y>861.531799316</y>
+            <z>4.697362423</z>
+        </position>
+        <orientation>-1.344456673</orientation>
+        <class>-1</class>
+    </drone>
+</frame>
+<frame>
+    <time>1.000000000</time>
+    <drone>
+        <id>14</id>
+        <position>
+            <x>727.200500488</x>
+            <y>655.345153809</y>
+            <z>4.698850155</z>
+        </position>
+        <orientation>-1.452492714</orientation>
+        <class>-1</class>
+    </drone>
+</frame>
+<frame>
+    <time>2.000000000</time>
+    <drone>
+        <id>14</id>
+        <position>
+            <x>587.973632812</x>
+            <y>553.088378906</y>
+            <z>4.683333874</z>
+        </position>
+        <orientation>-1.638503909</orientation>
+        <class>-1</class>
+    </drone>
+</frame>
+<frame>
+    <time>3.000000000</time>
+    <drone>
+        <id>14</id>
+        <position>
+            <x>459.574615479</x>
+            <y>466.438903809</y>
+            <z>0.000000000</z>
+        </position>
+        <orientation>-1.654842019</orientation>
+        <class>-1</class>
+    </drone>
+</frame>
