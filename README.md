@@ -1,6 +1,6 @@
 # Stop Motion Object Tracker
 
-A small app made by Ralph and Zach to compose animations and choreographies using physical markers.<br />
+A small app made by <a href="http://www.ralphkim.com/">Ralph</a> and <a href="http://zrispo.co/">Zach</a> to compose animations and choreographies using physical markers.<br />
 
 <a href="https://docs.google.com/presentation/d/1AIa2y5DeZClkpIosLk6njLB60a2rZnhI-ZJ-uk-TTb4/edit#slide=id.p">See how it works!</a>
 
