@@ -1,6 +1,8 @@
-# Quadcopter Choreography Composer
+# Stop Motion Object Tracker
 
-A small app made by Ralph and Zach to compose choreographies for quadcopters.<br />
+A small app made by Ralph and Zach to compose animations and choreographies using physical markers.<br />
+
+<a href="https://docs.google.com/presentation/d/1AIa2y5DeZClkpIosLk6njLB60a2rZnhI-ZJ-uk-TTb4/edit#slide=id.p">See how it works!</a>
 
 You need the following addons:<br />
 <a href="https://github.com/fishkingsin/ofxARtoolkitPlus">ofxARtoolkitPlus<br />
